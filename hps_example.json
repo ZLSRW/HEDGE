@@ -1,0 +1,8 @@
+{
+  "epochs": 50,
+  "lr": 0.001,
+  "dropout": 0.2,
+  "num_layers": 4,
+  "appnp_K": 2,
+  "appnp_alpha": 0.5
+}
