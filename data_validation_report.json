@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "file_rows": {
+    "rqtl_snp_nodes.csv": 314,
+    "hqtl_snp_nodes.csv": 5408,
+    "circqtl_snp_nodes.csv": 977,
+    "gene_nodes.csv": 8848,
+    "snp_snp_ld_edges.csv": 75365,
+    "snp_gene_association_edges.csv": 19784,
+    "gene_gene_ppi_edges.csv": 72348
+  },
+  "node_counts": {
+    "rQTL_SNP": 314,
+    "hQTL_SNP": 5408,
+    "circQTL_SNP": 977,
+    "gene": 8848
+  },
+  "gene_label_counts": {
+    "0": 3915,
+    "1": 4933
+  },
+  "stored_directed_operational_edge_counts": {
+    "rQTL": 2192,
+    "r-circ": 20,
+    "r-h": 2618,
+    "r-h-circ": 1224,
+    "hQTL": 28592,
+    "h-circ": 20102,
+    "circQTL": 8784,
+    "LD": 150730,
+    "PPI": 144696
+  }
+}

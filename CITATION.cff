@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "Please cite the HEDGE manuscript when using this software or processed dataset."
+title: "HEDGE: A Heterogeneous Epigenetic Diffusion-and-Gating Encoder for Autism Spectrum Disorder Risk Gene Identification"
+type: software
+authors:
+  - family-names: Li
+    given-names: Guodong
+  - family-names: Zeng
+    given-names: Zhi
+  - family-names: Cui
+    given-names: Ziwen
+  - family-names: Deng
+    given-names: Xun
+  - family-names: Gao
+    given-names: Tengfei
+  - family-names: Guo
+    given-names: Bin
+  - family-names: Lin
+    given-names: Qika
+  - family-names: He
+    given-names: Kai
+  - family-names: Zhang
+    given-names: Di
+  - family-names: Wu
+    given-names: Jiaying
+  - family-names: Gao
+    given-names: Zeyu
+  - family-names: Luo
+    given-names: Minnan
+  - family-names: Cambria
+    given-names: Erik
+  - family-names: Chen
+    given-names: Jingying
+  - family-names: Hu
+    given-names: Lun
